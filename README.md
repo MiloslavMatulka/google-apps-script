@@ -1,2 +1,2 @@
-# google_apps_script
+# google-apps-script
 Development platform running on Google servers based on JavaScript
